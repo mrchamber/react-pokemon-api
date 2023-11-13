@@ -3057,10 +3057,12 @@
           "way": "Leaf Stone or Sun Stone"
         },
         "E3": {
-          "img": 45
+          "img": 45,
+          "way": "Leaf Stone"
         },
         "E4": {
-          "img": 182
+          "img": 182,
+          "way": "Sun Stone"
         }
       }
     },
